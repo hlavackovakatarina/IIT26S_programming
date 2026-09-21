@@ -1,5 +1,5 @@
 print("Program starting.")
-fahrenheits=int(input("Insert fahrenheits: "))
-celsius=(fahrenheits - 32)/1.8
-print(f"{fahrenheits}°F is {celsius}°C")
+fahrenheit=int(input("Insert fahrenheits: "))
+celsius=(fahrenheit - 32)/1.8
+print(f"{fahrenheit}°F is {celsius}°C")
 print("Program ending.")
