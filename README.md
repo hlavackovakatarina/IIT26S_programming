@@ -9,3 +9,9 @@ Week 1 Task 6: https://github.com/hlavackovakatarina/Task6Week1
 Week 2 Task 5: https://github.com/hlavackovakatarina/Programming_Week2Task5 
 
 Week 2 Task 6: https://github.com/hlavackovakatarina/Programming_Week2Task6 
+
+### WEEK 3
+
+Week 3 Task 5: https://github.com/hlavackovakatarina/Python_programming_week3_task5 
+
+Week 3 Task 6: https://github.com/hlavackovakatarina/Python_programming_week3_task6 

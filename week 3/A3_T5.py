@@ -11,4 +11,3 @@ if option == 0:
 if option > 2:
     print("Unknown option.")
 print("\nProgram ending.")
-
