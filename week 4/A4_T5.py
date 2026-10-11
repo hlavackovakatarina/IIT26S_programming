@@ -1,4 +1,4 @@
-print("Program starting\n")
+print("Program starting.\n")
 list1=[]
 list2=[]
 start=int(input("Insert starting point: "))
