@@ -1,3 +1,4 @@
+#CHANGE ACCORDING TO THE TASK
 def main():
     print("Program starting.")
     list = []
