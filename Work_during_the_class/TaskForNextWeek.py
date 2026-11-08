@@ -1,12 +1,12 @@
 # NUMBER GUESSING GAME
 import random
 def main():
-    print("NUMBER GUESSING GAME\nTRY TO GUESS THE NUMBER!\nThe range is 0 - 1000")
-    attempts = 0 
+    print("NUMBER GUESSING GAME\nTRY TO GUESS THE NUMBER!\nThe range is 0 - 1000") #introduction
+    attempts = 0 # attempts start counting from 0 but will be increased by 1 each time the user guesses
     number = random.randint(0,1000) # the number needed to be guessed
    
     while attempts < 15:
-        attempts += 1
+        attempts += 1 # this is the increment of the attempts counter
         guesses = int(input("What number do you think is hiding? Take a guess: "))
         if guesses > 1000 or guesses < 0:
                     print("Guess within the range 0 - 1000")
